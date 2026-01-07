@@ -61,7 +61,7 @@
 
 ---
 
-### 🌱 Plant Disease Recognition System *(Ongoing)*  
+### 🌱 Plant Disease Recognition System *(College Project)*  
 **🛠 Tech:** Python, Flask, HTML/CSS  
 - Upload leaf images to detect plant diseases  
 - Backend deep-learning model integration  
